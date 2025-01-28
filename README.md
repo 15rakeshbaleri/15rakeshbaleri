@@ -38,22 +38,11 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60"/></a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=15rakeshbaleri&show_icons=true&hide=prs&count_private=true&theme=radical" alt="Rakesh Baleri GitHub Stats" />
-</p>
-
 <h3 align="center">Programming Languages Used</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=15rakeshbaleri&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=15rakeshbaleri&show_icons=true&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 </p>
 
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=15rakeshbaleri&theme=github-compact" alt="Rakesh Baleri's GitHub Activity Graph" />
-</p>
 
-<h3 align="center">Streaks</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=15rakeshbaleri&theme=radical" alt="Rakesh Baleri Streak" />
-</p>
+
+
