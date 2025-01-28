@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Rakesh Baleri</h1>
 <h3 align="center">A passionate Java full stack developer</h3>
 
-- 🌱 I’m currently learning **AIML**
 
-- 💬 Ask me about **Hi, I'm Rakesh Baleri, a passionate and driven pre-final year BE student specializing in Information Science at The National Institute of Engineering, Mysuru. I have a strong foundation in programming, with proficiency in Java, Python, JavaScript, C, and HTML. My expertise spans across various frameworks and libraries like React, Spring Boot, and Material UI, along with experience in database management using MySQL and MongoDB. I am particularly interested in building full-stack web applications and microservices architecture.**
+
+-Hi, I'm Rakesh Baleri, a passionate and driven pre-final year BE student specializing in Information Science at The National Institute of Engineering, Mysuru. I have a strong foundation in programming, with proficiency in Java, Python, JavaScript, C, and HTML. My expertise spans across various frameworks and libraries like React, Spring Boot, and Material UI, along with experience in database management using MySQL and MongoDB. I am particularly interested in building full-stack web applications and microservices architecture.**
 
 - 📫 How to reach me **rakeshbalerinie22@gmail.com**
 
